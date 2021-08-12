@@ -1,7 +1,14 @@
 # Data Analyst Portfolio Project Repository
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+Include major tasks on SQL Server, Python
 
-Please feel free to take these and run with them. Make them your own and find you own insights
+Datasets from Kaggle 
+Data Exploration
+Data Manipulation
 
-I really do hope this is helpful and helps you land that dream job! :D
+Testing on Python Data Cleansing and Analysis using Jupiter Books
+Exploration and Cleaning using SQL Server 2019
+
+Datasets used to create TaTableau Dasboards.
+https://public.tableau.com/app/profile/daniel.obando
+
